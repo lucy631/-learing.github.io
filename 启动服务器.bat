@@ -14,10 +14,7 @@ echo 你电脑的 IP 地址如下
 ipconfig | findstr /i "IPv4"
 echo.
 echo 手机浏览器输入  http://上面的IP:8080
-echo   把上面的IP换成数字 例如 192.168.1.100
 echo.
 echo 正在启动 端口 8080 ...
-echo 关闭本窗口即可停止服务
-echo.
 python -m http.server 8080
 pause

@@ -7,6 +7,16 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <title>小奥学习</title>
+  <script>
+    (function () {
+      var parts = location.pathname.split('/').filter(Boolean);
+      if (parts[0] && parts[0].indexOf('github.io') !== -1) {
+        var el = document.createElement('base');
+        el.href = '/' + parts[0] + '/';
+        document.head.appendChild(el);
+      }
+    })();
+  </script>
   <link rel="manifest" href="manifest.json">
   <link rel="icon" href="icons/icon-192.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="icons/icon-192.svg">
