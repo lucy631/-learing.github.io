@@ -1,0 +1,17 @@
+{
+  "appName": "小奥学习",
+  "parentPassword": "1234",
+  "dailyGoalMinutes": 30,
+  "mathTimeLimitSeconds": 300,
+  "mathQuestionCount": 20,
+  "chineseQuestionCount": 10,
+  "starsPerCorrect": 1,
+  "bonusStarsOnComplete": 3,
+  "levels": [
+    { "name": "光之学徒", "minStars": 0, "icon": "🌟" },
+    { "name": "见习战士", "minStars": 10, "icon": "⚡" },
+    { "name": "光之战士", "minStars": 30, "icon": "🦸" },
+    { "name": "奥特英雄", "minStars": 60, "icon": "💫" },
+    { "name": "传说奥特曼", "minStars": 100, "icon": "🏆" }
+  ]
+}

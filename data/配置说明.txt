@@ -1,0 +1,65 @@
+小奥学习 - 配置文件说明
+========================
+
+所有题目和设置都在 data 文件夹里，用记事本或 VS Code 打开编辑即可，保存后刷新 App 生效。
+
+一、config.json（应用设置）
+--------------------------
+- parentPassword     家长报告密码，默认 1234
+- dailyGoalMinutes   每日学习目标分钟数，默认 30
+- mathTimeLimitSeconds  口算限时（秒），默认 300（5分钟）
+- mathQuestionCount  每次口算起始题量，默认 20
+- chineseQuestionCount  每次识字练习题数，默认 10
+- starsPerCorrect    答对一题得几颗星，默认 1
+- bonusStarsOnComplete  完成一轮额外奖励星星，默认 3
+- levels             等级名称和所需星星数
+
+二、chinese.json（语文识字题库）
+--------------------------------
+questions 数组，每道题格式：
+
+选择题：
+{
+  "id": "cn-001",
+  "type": "choice",
+  "char": "学",
+  "question": "「学」字的正确读音是？",
+  "options": ["xue", "xiao", "xue3", "xiao4"],
+  "answer": 0,
+  "hint": "「学」读 xue"
+}
+answer 是 options 的下标，从 0 开始。
+
+判断题：
+{
+  "id": "cn-002",
+  "type": "judge",
+  "char": "学",
+  "question": "「学」是二年级要求认识的汉字。",
+  "answer": true,
+  "hint": "答对了！"
+}
+
+三、math.json（口算题库，可选）
+-------------------------------
+questions 留空 [] 时，系统自动随机生成 20 以内加减法。
+若要固定题目，可添加：
+{
+  "id": "math-001",
+  "type": "math",
+  "expression": "8 + 7",
+  "answer": 15
+}
+
+四、Android 安装与离线使用
+--------------------------
+1. 把整个 xiaoao-learning 文件夹拷到手机，或用电脑开本地服务器
+2. 推荐：在电脑上运行  python -m http.server 8080
+3. 手机 Chrome 打开 http://电脑IP:8080
+4. 菜单 → 添加到主屏幕
+5. 首次联网打开后会缓存，之后可离线使用
+
+五、学习数据存储
+----------------
+进度、星星、打卡、错题保存在浏览器 localStorage，不会上传网络。
+换手机或清除浏览器数据会丢失，请注意备份。

@@ -1,0 +1,1238 @@
+{
+  "title": "二年级识字",
+  "grade": 2,
+  "questions": [
+    {
+      "id": "cn-001",
+      "type": "choice",
+      "char": "学",
+      "question": "「学」字的正确读音是？",
+      "options": [
+        "shan",
+        "xue",
+        "hao",
+        "feng"
+      ],
+      "answer": 1,
+      "hint": "「学」读 xue"
+    },
+    {
+      "id": "cn-002",
+      "type": "judge",
+      "char": "学",
+      "question": "「学」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「学」读 xue"
+    },
+    {
+      "id": "cn-003",
+      "type": "choice",
+      "char": "校",
+      "question": "「校」字的正确读音是？",
+      "options": [
+        "xiao",
+        "xue",
+        "di",
+        "xue"
+      ],
+      "answer": 0,
+      "hint": "「校」读 xiao"
+    },
+    {
+      "id": "cn-004",
+      "type": "judge",
+      "char": "校",
+      "question": "「校」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「校」读 xiao"
+    },
+    {
+      "id": "cn-005",
+      "type": "choice",
+      "char": "园",
+      "question": "「园」字的正确读音是？",
+      "options": [
+        "chun",
+        "xiao",
+        "xiao",
+        "yuan"
+      ],
+      "answer": 3,
+      "hint": "「园」读 yuan"
+    },
+    {
+      "id": "cn-006",
+      "type": "judge",
+      "char": "园",
+      "question": "「园」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「园」读 yuan"
+    },
+    {
+      "id": "cn-007",
+      "type": "choice",
+      "char": "班",
+      "question": "「班」字的正确读音是？",
+      "options": [
+        "chun",
+        "xing",
+        "ban",
+        "huang"
+      ],
+      "answer": 2,
+      "hint": "「班」读 ban"
+    },
+    {
+      "id": "cn-008",
+      "type": "judge",
+      "char": "班",
+      "question": "「班」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「班」读 ban"
+    },
+    {
+      "id": "cn-009",
+      "type": "choice",
+      "char": "书",
+      "question": "「书」字的正确读音是？",
+      "options": [
+        "ben",
+        "ai",
+        "shu",
+        "guang"
+      ],
+      "answer": 2,
+      "hint": "「书」读 shu"
+    },
+    {
+      "id": "cn-010",
+      "type": "judge",
+      "char": "书",
+      "question": "「书」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「书」读 shu"
+    },
+    {
+      "id": "cn-011",
+      "type": "choice",
+      "char": "本",
+      "question": "「本」字的正确读音是？",
+      "options": [
+        "shuo",
+        "yu",
+        "du",
+        "ben"
+      ],
+      "answer": 3,
+      "hint": "「本」读 ben"
+    },
+    {
+      "id": "cn-012",
+      "type": "judge",
+      "char": "本",
+      "question": "「本」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「本」读 ben"
+    },
+    {
+      "id": "cn-013",
+      "type": "choice",
+      "char": "字",
+      "question": "「字」字的正确读音是？",
+      "options": [
+        "qiu",
+        "ting",
+        "huang",
+        "zi"
+      ],
+      "answer": 3,
+      "hint": "「字」读 zi"
+    },
+    {
+      "id": "cn-014",
+      "type": "judge",
+      "char": "字",
+      "question": "「字」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「字」读 zi"
+    },
+    {
+      "id": "cn-015",
+      "type": "choice",
+      "char": "词",
+      "question": "「词」字的正确读音是？",
+      "options": [
+        "ci",
+        "hong",
+        "di",
+        "dong"
+      ],
+      "answer": 0,
+      "hint": "「词」读 ci"
+    },
+    {
+      "id": "cn-016",
+      "type": "judge",
+      "char": "词",
+      "question": "「词」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「词」读 ci"
+    },
+    {
+      "id": "cn-017",
+      "type": "choice",
+      "char": "语",
+      "question": "「语」字的正确读音是？",
+      "options": [
+        "guang",
+        "yu",
+        "chun",
+        "shui"
+      ],
+      "answer": 1,
+      "hint": "「语」读 yu"
+    },
+    {
+      "id": "cn-018",
+      "type": "judge",
+      "char": "语",
+      "question": "「语」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「语」读 yu"
+    },
+    {
+      "id": "cn-019",
+      "type": "choice",
+      "char": "文",
+      "question": "「文」字的正确读音是？",
+      "options": [
+        "wen",
+        "yu",
+        "shuo",
+        "qiu"
+      ],
+      "answer": 0,
+      "hint": "「文」读 wen"
+    },
+    {
+      "id": "cn-020",
+      "type": "judge",
+      "char": "文",
+      "question": "「文」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「文」读 wen"
+    },
+    {
+      "id": "cn-021",
+      "type": "choice",
+      "char": "读",
+      "question": "「读」字的正确读音是？",
+      "options": [
+        "du",
+        "xue",
+        "dong",
+        "ben"
+      ],
+      "answer": 0,
+      "hint": "「读」读 du"
+    },
+    {
+      "id": "cn-022",
+      "type": "judge",
+      "char": "读",
+      "question": "「读」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「读」读 du"
+    },
+    {
+      "id": "cn-023",
+      "type": "choice",
+      "char": "写",
+      "question": "「写」字的正确读音是？",
+      "options": [
+        "dong",
+        "xie",
+        "gao",
+        "yu"
+      ],
+      "answer": 1,
+      "hint": "「写」读 xie"
+    },
+    {
+      "id": "cn-024",
+      "type": "judge",
+      "char": "写",
+      "question": "「写」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「写」读 xie"
+    },
+    {
+      "id": "cn-025",
+      "type": "choice",
+      "char": "听",
+      "question": "「听」字的正确读音是？",
+      "options": [
+        "ting",
+        "xing",
+        "xiao",
+        "di"
+      ],
+      "answer": 0,
+      "hint": "「听」读 ting"
+    },
+    {
+      "id": "cn-026",
+      "type": "judge",
+      "char": "听",
+      "question": "「听」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「听」读 ting"
+    },
+    {
+      "id": "cn-027",
+      "type": "choice",
+      "char": "说",
+      "question": "「说」字的正确读音是？",
+      "options": [
+        "bei",
+        "shuo",
+        "nan",
+        "ma"
+      ],
+      "answer": 1,
+      "hint": "「说」读 shuo"
+    },
+    {
+      "id": "cn-028",
+      "type": "judge",
+      "char": "说",
+      "question": "「说」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「说」读 shuo"
+    },
+    {
+      "id": "cn-029",
+      "type": "choice",
+      "char": "看",
+      "question": "「看」字的正确读音是？",
+      "options": [
+        "yu",
+        "jia",
+        "lv",
+        "kan"
+      ],
+      "answer": 3,
+      "hint": "「看」读 kan"
+    },
+    {
+      "id": "cn-030",
+      "type": "judge",
+      "char": "看",
+      "question": "「看」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「看」读 kan"
+    },
+    {
+      "id": "cn-031",
+      "type": "choice",
+      "char": "画",
+      "question": "「画」字的正确读音是？",
+      "options": [
+        "yu",
+        "ba",
+        "hua",
+        "lan"
+      ],
+      "answer": 2,
+      "hint": "「画」读 hua"
+    },
+    {
+      "id": "cn-032",
+      "type": "judge",
+      "char": "画",
+      "question": "「画」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「画」读 hua"
+    },
+    {
+      "id": "cn-033",
+      "type": "choice",
+      "char": "春",
+      "question": "「春」字的正确读音是？",
+      "options": [
+        "shuo",
+        "chun",
+        "feng",
+        "jia"
+      ],
+      "answer": 1,
+      "hint": "「春」读 chun"
+    },
+    {
+      "id": "cn-034",
+      "type": "judge",
+      "char": "春",
+      "question": "「春」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「春」读 chun"
+    },
+    {
+      "id": "cn-035",
+      "type": "choice",
+      "char": "夏",
+      "question": "「夏」字的正确读音是？",
+      "options": [
+        "yu",
+        "lin",
+        "xia",
+        "ban"
+      ],
+      "answer": 2,
+      "hint": "「夏」读 xia"
+    },
+    {
+      "id": "cn-036",
+      "type": "judge",
+      "char": "夏",
+      "question": "「夏」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「夏」读 xia"
+    },
+    {
+      "id": "cn-037",
+      "type": "choice",
+      "char": "秋",
+      "question": "「秋」字的正确读音是？",
+      "options": [
+        "xing",
+        "ban",
+        "qiu",
+        "feng"
+      ],
+      "answer": 2,
+      "hint": "「秋」读 qiu"
+    },
+    {
+      "id": "cn-038",
+      "type": "judge",
+      "char": "秋",
+      "question": "「秋」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「秋」读 qiu"
+    },
+    {
+      "id": "cn-039",
+      "type": "choice",
+      "char": "冬",
+      "question": "「冬」字的正确读音是？",
+      "options": [
+        "nan",
+        "yu",
+        "da",
+        "dong"
+      ],
+      "answer": 3,
+      "hint": "「冬」读 dong"
+    },
+    {
+      "id": "cn-040",
+      "type": "judge",
+      "char": "冬",
+      "question": "「冬」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「冬」读 dong"
+    },
+    {
+      "id": "cn-041",
+      "type": "choice",
+      "char": "东",
+      "question": "「东」字的正确读音是？",
+      "options": [
+        "dong",
+        "guang",
+        "jia",
+        "cao"
+      ],
+      "answer": 0,
+      "hint": "「东」读 dong"
+    },
+    {
+      "id": "cn-042",
+      "type": "judge",
+      "char": "东",
+      "question": "「东」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「东」读 dong"
+    },
+    {
+      "id": "cn-043",
+      "type": "choice",
+      "char": "南",
+      "question": "「南」字的正确读音是？",
+      "options": [
+        "nan",
+        "ba",
+        "cao",
+        "lv"
+      ],
+      "answer": 0,
+      "hint": "「南」读 nan"
+    },
+    {
+      "id": "cn-044",
+      "type": "judge",
+      "char": "南",
+      "question": "「南」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「南」读 nan"
+    },
+    {
+      "id": "cn-045",
+      "type": "choice",
+      "char": "西",
+      "question": "「西」字的正确读音是？",
+      "options": [
+        "xi",
+        "huang",
+        "cao",
+        "shu"
+      ],
+      "answer": 0,
+      "hint": "「西」读 xi"
+    },
+    {
+      "id": "cn-046",
+      "type": "judge",
+      "char": "西",
+      "question": "「西」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「西」读 xi"
+    },
+    {
+      "id": "cn-047",
+      "type": "choice",
+      "char": "北",
+      "question": "「北」字的正确读音是？",
+      "options": [
+        "ming",
+        "shu",
+        "bei",
+        "qiu"
+      ],
+      "answer": 2,
+      "hint": "「北」读 bei"
+    },
+    {
+      "id": "cn-048",
+      "type": "judge",
+      "char": "北",
+      "question": "「北」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「北」读 bei"
+    },
+    {
+      "id": "cn-049",
+      "type": "choice",
+      "char": "风",
+      "question": "「风」字的正确读音是？",
+      "options": [
+        "feng",
+        "xing",
+        "ting",
+        "ben"
+      ],
+      "answer": 0,
+      "hint": "「风」读 feng"
+    },
+    {
+      "id": "cn-050",
+      "type": "judge",
+      "char": "风",
+      "question": "「风」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「风」读 feng"
+    },
+    {
+      "id": "cn-051",
+      "type": "choice",
+      "char": "雨",
+      "question": "「雨」字的正确读音是？",
+      "options": [
+        "bei",
+        "guang",
+        "shao",
+        "yu"
+      ],
+      "answer": 3,
+      "hint": "「雨」读 yu"
+    },
+    {
+      "id": "cn-052",
+      "type": "judge",
+      "char": "雨",
+      "question": "「雨」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「雨」读 yu"
+    },
+    {
+      "id": "cn-053",
+      "type": "choice",
+      "char": "雪",
+      "question": "「雪」字的正确读音是？",
+      "options": [
+        "ban",
+        "xue",
+        "hua",
+        "ai"
+      ],
+      "answer": 1,
+      "hint": "「雪」读 xue"
+    },
+    {
+      "id": "cn-054",
+      "type": "judge",
+      "char": "雪",
+      "question": "「雪」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「雪」读 xue"
+    },
+    {
+      "id": "cn-055",
+      "type": "choice",
+      "char": "花",
+      "question": "「花」字的正确读音是？",
+      "options": [
+        "bei",
+        "lin",
+        "mei",
+        "hua"
+      ],
+      "answer": 3,
+      "hint": "「花」读 hua"
+    },
+    {
+      "id": "cn-056",
+      "type": "judge",
+      "char": "花",
+      "question": "「花」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「花」读 hua"
+    },
+    {
+      "id": "cn-057",
+      "type": "choice",
+      "char": "草",
+      "question": "「草」字的正确读音是？",
+      "options": [
+        "cao",
+        "xue",
+        "yu",
+        "hao"
+      ],
+      "answer": 0,
+      "hint": "「草」读 cao"
+    },
+    {
+      "id": "cn-058",
+      "type": "judge",
+      "char": "草",
+      "question": "「草」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「草」读 cao"
+    },
+    {
+      "id": "cn-059",
+      "type": "choice",
+      "char": "树",
+      "question": "「树」字的正确读音是？",
+      "options": [
+        "shu",
+        "ma",
+        "nan",
+        "shui"
+      ],
+      "answer": 0,
+      "hint": "「树」读 shu"
+    },
+    {
+      "id": "cn-060",
+      "type": "judge",
+      "char": "树",
+      "question": "「树」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「树」读 shu"
+    },
+    {
+      "id": "cn-061",
+      "type": "choice",
+      "char": "林",
+      "question": "「林」字的正确读音是？",
+      "options": [
+        "cao",
+        "lin",
+        "hong",
+        "ba"
+      ],
+      "answer": 1,
+      "hint": "「林」读 lin"
+    },
+    {
+      "id": "cn-062",
+      "type": "judge",
+      "char": "林",
+      "question": "「林」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「林」读 lin"
+    },
+    {
+      "id": "cn-063",
+      "type": "choice",
+      "char": "山",
+      "question": "「山」字的正确读音是？",
+      "options": [
+        "lv",
+        "guang",
+        "shan",
+        "dong"
+      ],
+      "answer": 2,
+      "hint": "「山」读 shan"
+    },
+    {
+      "id": "cn-064",
+      "type": "judge",
+      "char": "山",
+      "question": "「山」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「山」读 shan"
+    },
+    {
+      "id": "cn-065",
+      "type": "choice",
+      "char": "水",
+      "question": "「水」字的正确读音是？",
+      "options": [
+        "shui",
+        "da",
+        "gao",
+        "shu"
+      ],
+      "answer": 0,
+      "hint": "「水」读 shui"
+    },
+    {
+      "id": "cn-066",
+      "type": "judge",
+      "char": "水",
+      "question": "「水」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「水」读 shui"
+    },
+    {
+      "id": "cn-067",
+      "type": "choice",
+      "char": "天",
+      "question": "「天」字的正确读音是？",
+      "options": [
+        "xia",
+        "shuo",
+        "tian",
+        "kan"
+      ],
+      "answer": 2,
+      "hint": "「天」读 tian"
+    },
+    {
+      "id": "cn-068",
+      "type": "judge",
+      "char": "天",
+      "question": "「天」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「天」读 tian"
+    },
+    {
+      "id": "cn-069",
+      "type": "choice",
+      "char": "地",
+      "question": "「地」字的正确读音是？",
+      "options": [
+        "di",
+        "xue",
+        "tian",
+        "xue"
+      ],
+      "answer": 0,
+      "hint": "「地」读 di"
+    },
+    {
+      "id": "cn-070",
+      "type": "judge",
+      "char": "地",
+      "question": "「地」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「地」读 di"
+    },
+    {
+      "id": "cn-071",
+      "type": "choice",
+      "char": "日",
+      "question": "「日」字的正确读音是？",
+      "options": [
+        "shuo",
+        "hong",
+        "ri",
+        "ben"
+      ],
+      "answer": 2,
+      "hint": "「日」读 ri"
+    },
+    {
+      "id": "cn-072",
+      "type": "judge",
+      "char": "日",
+      "question": "「日」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「日」读 ri"
+    },
+    {
+      "id": "cn-073",
+      "type": "choice",
+      "char": "月",
+      "question": "「月」字的正确读音是？",
+      "options": [
+        "shuo",
+        "yue",
+        "chun",
+        "shao"
+      ],
+      "answer": 1,
+      "hint": "「月」读 yue"
+    },
+    {
+      "id": "cn-074",
+      "type": "judge",
+      "char": "月",
+      "question": "「月」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「月」读 yue"
+    },
+    {
+      "id": "cn-075",
+      "type": "choice",
+      "char": "星",
+      "question": "「星」字的正确读音是？",
+      "options": [
+        "hua",
+        "ma",
+        "xing",
+        "huang"
+      ],
+      "answer": 2,
+      "hint": "「星」读 xing"
+    },
+    {
+      "id": "cn-076",
+      "type": "judge",
+      "char": "星",
+      "question": "「星」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「星」读 xing"
+    },
+    {
+      "id": "cn-077",
+      "type": "choice",
+      "char": "光",
+      "question": "「光」字的正确读音是？",
+      "options": [
+        "ri",
+        "di",
+        "guang",
+        "shan"
+      ],
+      "answer": 2,
+      "hint": "「光」读 guang"
+    },
+    {
+      "id": "cn-078",
+      "type": "judge",
+      "char": "光",
+      "question": "「光」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「光」读 guang"
+    },
+    {
+      "id": "cn-079",
+      "type": "choice",
+      "char": "明",
+      "question": "「明」字的正确读音是？",
+      "options": [
+        "ming",
+        "cao",
+        "xiao",
+        "hua"
+      ],
+      "answer": 0,
+      "hint": "「明」读 ming"
+    },
+    {
+      "id": "cn-080",
+      "type": "judge",
+      "char": "明",
+      "question": "「明」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「明」读 ming"
+    },
+    {
+      "id": "cn-081",
+      "type": "choice",
+      "char": "红",
+      "question": "「红」字的正确读音是？",
+      "options": [
+        "ben",
+        "hong",
+        "ri",
+        "xia"
+      ],
+      "answer": 1,
+      "hint": "「红」读 hong"
+    },
+    {
+      "id": "cn-082",
+      "type": "judge",
+      "char": "红",
+      "question": "「红」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「红」读 hong"
+    },
+    {
+      "id": "cn-083",
+      "type": "choice",
+      "char": "黄",
+      "question": "「黄」字的正确读音是？",
+      "options": [
+        "huang",
+        "bei",
+        "kan",
+        "duo"
+      ],
+      "answer": 0,
+      "hint": "「黄」读 huang"
+    },
+    {
+      "id": "cn-084",
+      "type": "judge",
+      "char": "黄",
+      "question": "「黄」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「黄」读 huang"
+    },
+    {
+      "id": "cn-085",
+      "type": "choice",
+      "char": "蓝",
+      "question": "「蓝」字的正确读音是？",
+      "options": [
+        "lan",
+        "hua",
+        "yuan",
+        "cao"
+      ],
+      "answer": 0,
+      "hint": "「蓝」读 lan"
+    },
+    {
+      "id": "cn-086",
+      "type": "judge",
+      "char": "蓝",
+      "question": "「蓝」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「蓝」读 lan"
+    },
+    {
+      "id": "cn-087",
+      "type": "choice",
+      "char": "绿",
+      "question": "「绿」字的正确读音是？",
+      "options": [
+        "shu",
+        "lv",
+        "kan",
+        "duo"
+      ],
+      "answer": 1,
+      "hint": "「绿」读 lv"
+    },
+    {
+      "id": "cn-088",
+      "type": "judge",
+      "char": "绿",
+      "question": "「绿」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「绿」读 lv"
+    },
+    {
+      "id": "cn-089",
+      "type": "choice",
+      "char": "大",
+      "question": "「大」字的正确读音是？",
+      "options": [
+        "ben",
+        "shan",
+        "da",
+        "hua"
+      ],
+      "answer": 2,
+      "hint": "「大」读 da"
+    },
+    {
+      "id": "cn-090",
+      "type": "judge",
+      "char": "大",
+      "question": "「大」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「大」读 da"
+    },
+    {
+      "id": "cn-091",
+      "type": "choice",
+      "char": "小",
+      "question": "「小」字的正确读音是？",
+      "options": [
+        "guang",
+        "qiu",
+        "hong",
+        "xiao"
+      ],
+      "answer": 3,
+      "hint": "「小」读 xiao"
+    },
+    {
+      "id": "cn-092",
+      "type": "judge",
+      "char": "小",
+      "question": "「小」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「小」读 xiao"
+    },
+    {
+      "id": "cn-093",
+      "type": "choice",
+      "char": "多",
+      "question": "「多」字的正确读音是？",
+      "options": [
+        "xue",
+        "dong",
+        "duo",
+        "qiu"
+      ],
+      "answer": 2,
+      "hint": "「多」读 duo"
+    },
+    {
+      "id": "cn-094",
+      "type": "judge",
+      "char": "多",
+      "question": "「多」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「多」读 duo"
+    },
+    {
+      "id": "cn-095",
+      "type": "choice",
+      "char": "少",
+      "question": "「少」字的正确读音是？",
+      "options": [
+        "bei",
+        "shao",
+        "guang",
+        "nan"
+      ],
+      "answer": 1,
+      "hint": "「少」读 shao"
+    },
+    {
+      "id": "cn-096",
+      "type": "judge",
+      "char": "少",
+      "question": "「少」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「少」读 shao"
+    },
+    {
+      "id": "cn-097",
+      "type": "choice",
+      "char": "高",
+      "question": "「高」字的正确读音是？",
+      "options": [
+        "gao",
+        "mei",
+        "xue",
+        "ben"
+      ],
+      "answer": 0,
+      "hint": "「高」读 gao"
+    },
+    {
+      "id": "cn-098",
+      "type": "judge",
+      "char": "高",
+      "question": "「高」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「高」读 gao"
+    },
+    {
+      "id": "cn-099",
+      "type": "choice",
+      "char": "低",
+      "question": "「低」字的正确读音是？",
+      "options": [
+        "qiu",
+        "dong",
+        "ben",
+        "di"
+      ],
+      "answer": 3,
+      "hint": "「低」读 di"
+    },
+    {
+      "id": "cn-100",
+      "type": "judge",
+      "char": "低",
+      "question": "「低」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「低」读 di"
+    },
+    {
+      "id": "cn-101",
+      "type": "choice",
+      "char": "好",
+      "question": "「好」字的正确读音是？",
+      "options": [
+        "xie",
+        "xiao",
+        "hao",
+        "hua"
+      ],
+      "answer": 2,
+      "hint": "「好」读 hao"
+    },
+    {
+      "id": "cn-102",
+      "type": "judge",
+      "char": "好",
+      "question": "「好」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「好」读 hao"
+    },
+    {
+      "id": "cn-103",
+      "type": "choice",
+      "char": "美",
+      "question": "「美」字的正确读音是？",
+      "options": [
+        "shu",
+        "mei",
+        "hong",
+        "xiao"
+      ],
+      "answer": 1,
+      "hint": "「美」读 mei"
+    },
+    {
+      "id": "cn-104",
+      "type": "judge",
+      "char": "美",
+      "question": "「美」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「美」读 mei"
+    },
+    {
+      "id": "cn-105",
+      "type": "choice",
+      "char": "爱",
+      "question": "「爱」字的正确读音是？",
+      "options": [
+        "tian",
+        "huang",
+        "ai",
+        "lin"
+      ],
+      "answer": 2,
+      "hint": "「爱」读 ai"
+    },
+    {
+      "id": "cn-106",
+      "type": "judge",
+      "char": "爱",
+      "question": "「爱」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「爱」读 ai"
+    },
+    {
+      "id": "cn-107",
+      "type": "choice",
+      "char": "家",
+      "question": "「家」字的正确读音是？",
+      "options": [
+        "jia",
+        "hua",
+        "wen",
+        "xue"
+      ],
+      "answer": 0,
+      "hint": "「家」读 jia"
+    },
+    {
+      "id": "cn-108",
+      "type": "judge",
+      "char": "家",
+      "question": "「家」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「家」读 jia"
+    },
+    {
+      "id": "cn-109",
+      "type": "choice",
+      "char": "爸",
+      "question": "「爸」字的正确读音是？",
+      "options": [
+        "lv",
+        "xiao",
+        "ai",
+        "ba"
+      ],
+      "answer": 3,
+      "hint": "「爸」读 ba"
+    },
+    {
+      "id": "cn-110",
+      "type": "judge",
+      "char": "爸",
+      "question": "「爸」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「爸」读 ba"
+    },
+    {
+      "id": "cn-111",
+      "type": "choice",
+      "char": "妈",
+      "question": "「妈」字的正确读音是？",
+      "options": [
+        "guang",
+        "ma",
+        "shui",
+        "duo"
+      ],
+      "answer": 1,
+      "hint": "「妈」读 ma"
+    },
+    {
+      "id": "cn-112",
+      "type": "judge",
+      "char": "妈",
+      "question": "「妈」是二年级要求认识的汉字。",
+      "answer": true,
+      "hint": "答对了！「妈」读 ma"
+    }
+  ]
+}
